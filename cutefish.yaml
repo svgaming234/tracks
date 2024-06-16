@@ -17,6 +17,7 @@ packages:
   - 'cutefish-wallpapers'
   - 'libcutefish'
   - 'fishui'
+  - 'kwin'
   - 'sddm'
 
 services:
