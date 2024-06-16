@@ -1,0 +1,23 @@
+impl: 'https://github.com/blend-os/tracks/raw/main'
+
+track: 'blendos-base'
+
+packages:
+  - 'cutefish-core'
+  - 'cutefish-calculator'
+  - 'cutefish-dock'
+  - 'cutefish-filemanager'
+  - 'cutefish-launcher'
+  - 'cutefish-icons'
+  - 'cutefish-qt-plugins'
+  - 'cutefish-screenlocker'
+  - 'cutefish-settings'
+  - 'cutefish-statusbar'
+  - 'cutefish-terminal'
+  - 'cutefish-wallpapers'
+  - 'libcutefish'
+  - 'fishui'
+  - 'sddm'
+
+services:
+  - 'sddm'
