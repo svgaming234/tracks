@@ -18,6 +18,11 @@ packages:
   - 'libcutefish'
   - 'fishui'
   - 'kwin'
+  - 'noto-fonts'
+  - 'noto-fonts-cjk'
+  - 'noto-fonts-emoji'
+  - 'noto-fonts-extra'
+  - 'ttf-dejavu'
   - 'sddm'
 
 services:
