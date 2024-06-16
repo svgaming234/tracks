@@ -23,6 +23,8 @@ packages:
   - 'noto-fonts-emoji'
   - 'noto-fonts-extra'
   - 'ttf-dejavu'
+  - 'firefox'
+  - 'flatpak'
   - 'sddm'
 
 services:
